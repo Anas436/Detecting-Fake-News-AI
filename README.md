@@ -1,8 +1,13 @@
-# chapter-project-repository-template
+# Liberia fake News detection
 Use this Repository as a template for creating Local Chapter Repositories
 
+## Project background
 
-# [Chapter Challenge Name]
+
+## The problem
+
+
+## Project goals
 
 
 ## Contribution Guidelines
