@@ -60,4 +60,6 @@ Use this Repository as a template for creating Local Chapter Repositories
 - Visualization     - Folder to store dashboards, analysis and visualization reports
 - Results           - Folder to store final analysis modelling results for the project.
 
-
+## Resource
+- Omdena Local Chapter Link [here](https://omdena.com/chapter-challenges/detecting-fake-news-using-ai/)
+- Omdena Github Link [here](https://github.com/OmdenaAI/liberia-fake-news-detection)
